@@ -1,0 +1,5 @@
+{
+  "name": "Smart Excel Merger",
+  "description": "A professional-grade tool to merge multiple Excel sheets with customizable header detection, data start rows, and intelligent sheet selection.",
+  "requestFramePermissions": []
+}
